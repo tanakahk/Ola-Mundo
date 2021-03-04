@@ -33,7 +33,7 @@ Lista de tarefas:
 - [x] segunda tarefa (concluída)
 - [ ] última tarefa
 
-![Imagem do octodex](https://octodex.github.com/privateinvestocat/)
+[Imagem do octodex](https://octodex.github.com/privateinvestocat/)
 ![Preview da imagem do octodex](https://user-images.githubusercontent.com/74397585/110012574-6f417e80-7cff-11eb-8e63-58926c2b036c.jpg)
 
 [Link do github do meu professor](https://github.com/gustavoguanabara)
