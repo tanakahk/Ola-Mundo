@@ -1,5 +1,5 @@
 
-testes com a linguagem markdown:
+# testes com a linguagem markdown:
 
 **negrito com 2 asteríscos**
 *itálico com 1 asterísco*
@@ -27,3 +27,11 @@ Lista demarcada:
    * sub-linha 1 usando asterísco
 - linha 3 usando traço
 * linha 4 usando asterísco
+
+Lista de tarefas:
+- [x] primeira tarefa (concluída)
+- [x] segunda tarefa (concluída)
+- [] última tarefa
+
+![Imagem do octodex](https://octodex.github.com/privateinvestocat/)
+![Preview da imagem do octodex](https://user-images.githubusercontent.com/74397585/110012574-6f417e80-7cff-11eb-8e63-58926c2b036c.jpg)
