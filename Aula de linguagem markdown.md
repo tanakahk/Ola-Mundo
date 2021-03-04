@@ -55,3 +55,6 @@ print('A soma dos números {} e {} equivale a {}'.format(num, num2, num+num2))
 ```
 
 Um pequeno teste de emojis :mount_fuji:
+
+> exemplo de citação
+
