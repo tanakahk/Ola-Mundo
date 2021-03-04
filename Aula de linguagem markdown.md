@@ -31,7 +31,27 @@ Lista demarcada:
 Lista de tarefas:
 - [x] primeira tarefa (concluída)
 - [x] segunda tarefa (concluída)
-- [] última tarefa
+- [ ] última tarefa
 
 ![Imagem do octodex](https://octodex.github.com/privateinvestocat/)
 ![Preview da imagem do octodex](https://user-images.githubusercontent.com/74397585/110012574-6f417e80-7cff-11eb-8e63-58926c2b036c.jpg)
+
+[Link do github do meu professor](https://github.com/gustavoguanabara)
+
+Tabela:
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | José | 7
+
+testando a inserção de um comando:
+`document.getElementById()`
+
+testando trecho de um comando:
+```
+num = int(input('Digite um valor:')
+num2 = int(input('Digite um outro valor:')
+print('A soma dos números {} e {} equivale a {}'.format(num, num2, num+num2))
+```
+
+Um pequeno teste de emojis :mount_fuji:
